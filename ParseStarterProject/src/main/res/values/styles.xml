@@ -1,0 +1,70 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="customBackgroundColor">@color/customBackgroundColor</item>
+        <item name="customPrimaryTextColor">@color/customPrimaryTextColor</item>
+        <item name="customSecondaryTextColor">@color/customSecondaryTextColor</item>
+        <item name="customCardBackgroundColor">@color/customCardBackgroundColor</item>
+        <item name="dialogTheme">@style/AlertDialogThemeLight</item>
+        <item name="alertDialogTheme">@style/AlertDialogThemeLight</item>
+    </style>
+
+    <style name="AlertDialogThemeLight" parent="Theme.AppCompat.Light.Dialog.Alert">
+
+    </style>
+    <!---->
+
+
+<!--    //night-->
+<!--    <style name = "AlertDialogThemeDark" parent="Theme.AppCompat.DayNight.Dialog.Alert">-->
+<!--        <item name="android:background">#444444</item>-->
+<!--        <item name="android:textColor">@color/customPrimaryTextColorNight</item>-->
+<!--        <item name="android:textColorAlertDialogListItem">@color/customPrimaryTextColorNight</item>-->
+<!--        &lt;!&ndash;<item name="android:textColor">@color/customPrimaryTextColorNight</item>&ndash;&gt;-->
+<!--        <item name="android:textColorSecondary">@color/customPrimaryTextColorNight</item>-->
+<!--        <item name= "android:textColorPrimary">@color/customPrimaryTextColorNight</item>-->
+<!--    </style>-->
+
+
+
+<!--    <style name="AppThemeDark" parent="Theme.AppCompat.DayNight.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/colorPrimaryDarkNight</item>-->
+<!--        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--        <item name="customBackgroundColor">@color/customBackgroundColorNight</item>-->
+<!--        <item name="customPrimaryTextColor">@color/customPrimaryTextColorNight</item>-->
+<!--        &lt;!&ndash;<item name="customSecondaryTextColor">@color/customSecondaryTextColorNight</item>&ndash;&gt;-->
+<!--        <item name="customSecondaryTextColor">@color/customPrimaryTextColorNight</item>-->
+<!--        <item name="customCardBackgroundColor">@color/customCardBackgroundColorNight</item>-->
+<!--        <item name="dialogTheme">@style/AlertDialogThemeDark</item>-->
+<!--        <item name="alertDialogTheme">@style/AlertDialogThemeDark</item>-->
+<!--    </style>-->
+
+
+
+
+
+    <!--<style name="AlertDialogThemeLight" parent="Theme.AppCompat.DayNight.Dialog.Alert">-->
+    <!--<item name="dialogCornerRadius">10dp</item>-->
+    <!--</style>-->
+    <!---->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"></style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
+
+
+
+</resources>

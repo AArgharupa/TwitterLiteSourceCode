@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">YOUR_APPLICATION_ID</string>
+    <string name="parse_client_key">YOUR_CLIENT_KEY</string>
+
+    <string name="app_name">Parse Starter Project</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rider">Map</string>
+    <string name="title_activity_driver_location">Map</string>
+    <string name="help">Welcome to Argharupa\'s Twitter Lite :)\n\n\n 1) If you don\'t have any account in Twitter Lite, please Sign up.\n\n 2) If you already have an account, just login with it.\n\n 3)To go back to the Sign up/ login Activity, tap on the green floating button.\n\n 4) Now you can follow or unfollow people from the user list as your wish by simply tap on them.\n\n 5)There is a menu at the top right corner.\n\n *Tweet: You can tweet something here !\n\n *Your feed: You can see the tweets of the people you follow.\n\n *Your Tweet: You can see your own tweets.\n\n *Logout: you can logout from the current account.\n\n 6) In Your tweet activity you can delete one of your tweets(if you no longer want it to share with us :( ) by long pressing on it.\n\n 7) By taping on the floating button you can switch between Light mode and Dark mode.\n\n HOPE YOU WILL ENJOY MY APP :)</string>
+</resources>

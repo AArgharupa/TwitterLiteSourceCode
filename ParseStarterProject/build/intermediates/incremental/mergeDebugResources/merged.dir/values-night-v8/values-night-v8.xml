@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <style name="AlertDialogThemeDark" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="android:background">#444444</item>
+        <item name="android:textColor">@color/customPrimaryTextColorNight</item>
+        <item name="android:textColorAlertDialogListItem">@color/customPrimaryTextColorNight</item>
+        <!--<item name="android:textColor">@color/customPrimaryTextColorNight</item>-->
+        <item name="android:textColorSecondary">@color/customPrimaryTextColorNight</item>
+        <item name="android:textColorPrimary">@color/customPrimaryTextColorNight</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="customBackgroundColor">@color/customBackgroundColorNight</item>
+        <item name="customPrimaryTextColor">@color/customPrimaryTextColorNight</item>
+        <!--<item name="customSecondaryTextColor">@color/customSecondaryTextColorNight</item>-->
+        <item name="customSecondaryTextColor">@color/customPrimaryTextColorNight</item>
+        <item name="customCardBackgroundColor">@color/customCardBackgroundColorNight</item>
+        <item name="dialogTheme">@style/AlertDialogThemeDark</item>
+        <item name="alertDialogTheme">@style/AlertDialogThemeDark</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+</resources>

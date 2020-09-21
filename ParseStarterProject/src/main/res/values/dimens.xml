@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#5d5d5e</color>
+    <color name="colorAccent">#ffb940</color>
+    <color name = "customPrimaryTextColor">#000000</color>
+    <color name= "customSecondaryTextColor">#000000</color>
+    <color name="customBackgroundColor">#ffffff</color>
+    <color name= "customCardBackgroundColor">#ffffff</color >
+
+
+    //night
+
+
+    //for night mode
+    <color name="colorPrimaryNight">#000000</color>
+    <color name="colorPrimaryDarkNight">#2b2b2b</color>
+    <color name="colorAccentNight">#1591E4</color>
+    <color name="customBackgroundColorNight">#000000</color>
+    <color name="customPrimaryTextColorNight">#ffffff</color>
+    <color name="customSecondaryTextColorNight">#716f6f</color>
+    <color name= "customCardBackgroundColorNight">#000000</color>
+
+
+
+
+</resources>
+

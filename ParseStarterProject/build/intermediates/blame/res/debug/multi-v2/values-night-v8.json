@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Bhaskar Adhikary\\AndroidStudioProjects\\Twitter Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Bhaskar Adhikary\\.gradle\\caches\\transforms-2\\files-2.1\\a55b8e82c5e01e847d73fa75d178eb7d\\appcompat-v7-26.0.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1860,1930,2014,2098,2194,2296,2398",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "1925,2009,2093,2189,2291,2393,2487"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Bhaskar Adhikary\\AndroidStudioProjects\\Twitter Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\values-night\\dimens.xml",
+                    "from": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "608,666",
+                        "endColumns": "57,55",
+                        "endOffsets": "661,717"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Bhaskar Adhikary\\AndroidStudioProjects\\Twitter Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\values-night\\styles-night.xml",
+                    "from": {
+                        "startLines": "31,42,64,65",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1429,2037,3143,3240",
+                        "endLines": "38,54,64,65",
+                        "endColumns": "12,12,96,86",
+                        "endOffsets": "2029,2951,3235,3322"
+                    },
+                    "to": {
+                        "startLines": "4,12,25,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,771,1690,1780",
+                        "endLines": "11,24,25,26",
+                        "endColumns": "12,12,89,79",
+                        "endOffsets": "766,1685,1775,1855"
+                    }
+                }
+            ]
+        }
+    ]
+}
